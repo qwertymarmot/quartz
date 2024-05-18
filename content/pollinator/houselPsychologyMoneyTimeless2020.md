@@ -12,14 +12,9 @@ test
 
 ## Notes {#notes}
 
-
-### What do I want to get out of this book? {#what-do-i-want-to-get-out-of-this-book}
-
-
-#### I hope to learn tactics to help me to get where I want to be financially {#i-hope-to-learn-tactics-to-help-me-to-get-where-i-want-to-be-financially}
-
-
-#### Tactics to get my money to work for me {#tactics-to-get-my-money-to-work-for-me}
+-   What do I want to get out of this book?
+    -   I hope to learn tactics to help me to get where I want to be financially
+    -   Tactics to get my money to work for me
 
 
 ### Chapter 1: No Ones Crazy {#chapter-1-no-ones-crazy}

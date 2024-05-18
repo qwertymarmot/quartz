@@ -13,20 +13,9 @@ draft: false
 
 ## Notes {#notes}
 
-
-### It is important for fathers to know that stay at home moms feel like they are losing their identity as anything other than a mom {#it-is-important-for-fathers-to-know-that-stay-at-home-moms-feel-like-they-are-losing-their-identity-as-anything-other-than-a-mom}
-
-
-### It is important for mothers to know that working fathers feel the pressure to provide for their family and how isolated fromr their kids they feel at times {#it-is-important-for-mothers-to-know-that-working-fathers-feel-the-pressure-to-provide-for-their-family-and-how-isolated-fromr-their-kids-they-feel-at-times}
-
-
-### Stay at home mothers can feel isolated and lonely {#stay-at-home-mothers-can-feel-isolated-and-lonely}
-
-
-### With raising a child the "work" is harder to measure and feedback is unclear as opposed to a traditional workplace {#with-raising-a-child-the-work-is-harder-to-measure-and-feedback-is-unclear-as-opposed-to-a-traditional-workplace}
-
-
-#### Stay at home mothers don't get praise the same way they do at work {#stay-at-home-mothers-don-t-get-praise-the-same-way-they-do-at-work}
-
-
-### Mothers can feel that it is hard to be with their children all the time but it is even more difficult to be away from them. {#mothers-can-feel-that-it-is-hard-to-be-with-their-children-all-the-time-but-it-is-even-more-difficult-to-be-away-from-them-dot}
+-   It is important for fathers to know that stay at home moms feel like they are losing their identity as anything other than a mom
+-   It is important for mothers to know that working fathers feel the pressure to provide for their family and how isolated fromr their kids they feel at times
+-   Stay at home mothers can feel isolated and lonely
+-   With raising a child the "work" is harder to measure and feedback is unclear as opposed to a traditional workplace
+    -   Stay at home mothers don't get praise the same way they do at work
+-   Mothers can feel that it is hard to be with their children all the time but it is even more difficult to be away from them.
