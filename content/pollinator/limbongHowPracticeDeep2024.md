@@ -8,7 +8,7 @@ draft: false
 ---
 
 > [!note] Podcast Link by Andrew Limbong
-> [How to practice deep reading](httpshttps://www.npr.org/2024/04/30/1196979151/how-to-practice-deep-reading://elearningindustry.com/emotional-intelligence-101-what-is-it-and-how-does-it-apply-to-the-workplace)
+> [How to practice deep reading](https://www.npr.org/2024/04/30/1196979151/how-to-practice-deep-reading://elearningindustry.com/emotional-intelligence-101-what-is-it-and-how-does-it-apply-to-the-workplace)
 
 -   Reading is not a ability that comes from instinctual or genetical factors
 -   Deep reading = when we enter a state of reading where we can go beyond the material into our own insights (immersion)
