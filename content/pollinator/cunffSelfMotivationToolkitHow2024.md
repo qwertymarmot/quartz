@@ -1,5 +1,5 @@
 ---
-title: "Notes on Cunff, The Self-Motivation Toolkit: How to Stay Curious and Committed"
+title: "Notes on The Self-Motivation Toolkit: How to Stay Curious and Committed"
 author: ["Anne-Laure Le Cunff"]
 date: 2024-05-14T00:00:00-06:00
 lastmod: 2024-05-11T00:00:00-06:00
