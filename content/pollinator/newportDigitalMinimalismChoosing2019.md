@@ -3,7 +3,7 @@ title: "Notes on Digital Minimalism: Choosing a Focused Life in a Noisy World"
 author: ["Cal Newport"]
 date: 2024-05-14T00:00:00-06:00
 lastmod: 2024-05-11T00:00:00-06:00
-tags: ["articles"]
+tags: ["books"]
 draft: false
 ---
 
