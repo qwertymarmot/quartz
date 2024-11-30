@@ -1,3 +1,33 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+/* Variables for consistent theming */
+$background-color: #2e3440;
+$text-color: #d8dee9;
+$highlight-color: #88c0d0;
+$link-color: #8fbcbb;
+
+/* Blockquotes */
+blockquote {
+  padding-left: 1rem;
+  margin-left: 0;
+  color: $text-color;
+}
+
+/* Cards for categories */
+.card {
+  display: inline-block;
+  color: $text-color;
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin: 1rem;
+  text-align: center;
+  width: 250px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s, box-shadow 0.3s;
+
+  &:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+}
