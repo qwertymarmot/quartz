@@ -7,31 +7,31 @@ tags: ["books"]
 draft: false
 ---
 
-## What I want to get out of this book {#what-i-want-to-get-out-of-this-book}
+## What I want to get out of this book
 
 -   I want to find tactics to bypass procrastination
 -   I want to learn more about creating a dopamine reward system
 -   I want to learn more about pursuing purpose
 
 
-## Introduction {#introduction}
+## Introduction
 
 -   Success doesn't require large actions. Instead it is more common from small actions that you take every single day.
 -   Burn your boats. When you commit to something that you truly value then make then make it so that there isn't a way to chicken out.
 
 
-## Part 1: Why you're not taking action {#part-1-why-you-re-not-taking-action}
+## Part 1: Why you're not taking action
 
 -   What are you scared of and how is it preventing you from taking any action?
 -   How do we get past those fears?
 
 
-### Chapter 1: Fear {#chapter-1-fear}
+### Chapter 1: Fear
 
 -   We develop fears that are driven by things and experiences that we have never had, but are instead impart on us by friends, family or society.
 
 
-#### Which fears are real, and which are imagined? {#which-fears-are-real-and-which-are-imagined}
+#### Which fears are real, and which are imagined?
 
 -   Humans are born with only two fears. The fear of falling and the fear of loud noises
 -   Inability to take action can be traced back to one of five fears;
@@ -42,7 +42,7 @@ draft: false
     -   Fear of abandonment
 
 
-#### The Two Types of Fear {#the-two-types-of-fear}
+#### The Two Types of Fear
 
 -   Fear is a defense mechanism
 -   Primal fears

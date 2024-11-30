@@ -11,22 +11,22 @@ draft: false
 > [Why Everyone is Tired, and How to Recover](https://www.forbes.com/sites/forbesbooksauthors/2024/04/02/why-everyone-is-tired-and-how-to-recover/?sh=41959f8927ef)
 
 
-## Notes {#notes}
+## Notes
 
--   The Habenula is a part of the brain that suppresses [Intrinsic Motivation]({{< relref "20240418092628-intrinsic_motivation" >}}) circuits when triggered
--   Doom scrolling floods the brain with social comparisons, FOMO, and unrealistic standards ([Keeping up with the Joneses]({{< relref "../sapling/20240509091410-keeping_up_with_the_joneses.md" >}}))
+-   The Habenula is a part of the brain that suppresses [[20240418092628-intrinsic_motivation|Intrinsic Motivation]] circuits when triggered
+-   Doom scrolling floods the brain with social comparisons, FOMO, and unrealistic standards ([[20240509091410-keeping_up_with_the_joneses|Keeping up with the Joneses]])
 -   The connected nature of our culture makes it difficult if not impossible to turn off or be our authentic selves
     -   Introverts lack the quiet solitude needes to recharge
     -   Extroverts lack the real-life connections
 
 
-### How to reclaim ourselves {#how-to-reclaim-ourselves}
+### How to reclaim ourselves
 
--   Set technological boundries
-    -   [Pre-sleep routine]({{< relref "../sapling/20240509092427-pre_sleep_routine.md" >}}) of no screen time can help the habenula deactivate
+-   Set technological boundaries
+    -   [[20240509092427-pre_sleep_routine|Pre-sleep routine]] of no screen time can help the habenula deactivate
 -   Prioritize breaks throughout the day to recharge
-    -   [Self-reflection]({{< relref "../sapling/20240509092818-self_reflection.md" >}}) and [Self-care]({{< relref "../sapling/20240509092847-self_care.md" >}}) actities
+    -   [[20240509092818-self_reflection|Self-reflection]] and [[20240509092847-self_care|Self-care]] activities
 -   Getting out and connecting with others and with nature
--   [Iterative mindset]({{< relref "../sapling/20240509093122-iterative_mindset.md" >}})
-    -   Treat each attempt at a healtier lifestyle as an experiment
+-   [[20240509093122-iterative_mindset|Iterative mindset]]
+    -   Treat each attempt at a healthier lifestyle as an experiment
     -   Continually focus on improvement instead of perfection

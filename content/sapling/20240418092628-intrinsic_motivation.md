@@ -7,11 +7,11 @@ tags: ["motivation"]
 draft: false
 ---
 
-## Notes {#notes}
+## Notes
 
 Intrinsic motivation is the kind of motivation where we are driven by internal factors. We pursue action for the fun or challenge of the activity rather than the potential for reward.
 
 
-## Sources {#sources}
+## Sources
 
-[Notes on Why Everyone Is Tired, and How to Recover]({{< relref "../pollinator/mphAuthorPostWhy.md" >}})
+[[mphAuthorPostWhy|Notes on Why Everyone Is Tired]]

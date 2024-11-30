@@ -11,7 +11,7 @@ draft: false
 > [How to Read a Book](https://www.forbes.com/siteshttps://fs.blog/how-to-read-a-book/)
 
 
-## Notes {#notes}
+## Notes
 
 -   The Four levels of reading
     -   Elementary Reading

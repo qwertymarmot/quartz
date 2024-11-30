@@ -11,34 +11,34 @@ draft: false
 > [Emotional Intelligence 101](https://elearningindustry.com/emotional-intelligence-101-what-is-it-and-how-does-it-apply-to-the-workplace)
 
 
-## Notes {#notes}
+## Notes
 
--   [Emotional Intelligence]({{< relref "../sapling/20240503091928-emotional_intelligence.md" >}}) gives us the ability to recognize and understand the emotions of ourselves and those around us.
--   The componets of [Emotional Intelligence]({{< relref "../sapling/20240503091928-emotional_intelligence.md" >}})
-    -   [Self-Awareness]({{< relref "../sapling/20240503092215-self_awareness.md" >}})
-    -   [Self-Regulation]({{< relref "../sapling/20240503092257-self_regulation.md" >}})
-    -   [Motivation]({{< relref "../sapling/20240503092314-motivation.md" >}})
-    -   [Empathy]({{< relref "../sapling/20240503092335-empathy.md" >}})
+-  [[20240503091928-emotional_intelligence|Emotional Intelligence]] gives us the ability to recognize and understand the emotions of ourselves and those around us.
+-   The components of [[20240503091928-emotional_intelligence|Emotional Intelligence]]
+    -   [[20240503092215-self_awareness|Self-Awareness]]
+    -   [[20240503092257-self_regulation|Self-Regulation]]
+    -   [[20240503092314-motivation|Motivation]]
+    -   [[20240503092335-empathy|Empathy]]
     -   Social Skills
         -   Communication
-            -   With Emotional intelligence we are able to pickup on the unspoken pieces of conversations to make interactions more pleasant and meaningful.
-            -   Notice facial expressions and check in
+            -   With Emotional intelligence, we are able to pick up on the unspoken pieces of conversations to make interactions more pleasant and meaningful.
+            -   Notice facial expressions and check-in
         -   Negotiation
         -   Conflict Resolution
             -   Step back and evaluate a situation
-            -   Detach from intial reactions ([Thinking Fast and Slow]({{< relref "kahnemanThinkingFastSlow2013.md" >}}))
--   The Benefits to Emotional Intelligence
+            -   Detach from initial reactions ([[kahnemanThinkingFastSlow2013|Notes on Thinking Fast and Slow]])
+-   The Benefits of Emotional Intelligence
     -   Higher Job Satisfaction
-        -   Less risk of [Burnout]({{< relref "../sapling/20240503093350-burnout.md" >}})
+        -   Less risk of [[20240503093350-burnout|Burnout]]
     -   Improved Collaboration
 
 -   How to develop Emotional Intelligence
     -   Become aware of your emotions throughout the day
-        -   Use techniques to handle you emotions
-            -   [Meditation]({{< relref "../sapling/20240503093547-meditation.md" >}})
-            -   [Breathing Exercises]({{< relref "../sapling/20240503093619-breathing_exercises.md" >}})
-    -   Be a active listener
-        -   Avoid disctractions when having conversations
+        -   Use techniques to handle your emotions
+            -   [[20240503093547-meditation|Meditation]]
+            -   [[20240503093619-breathing_exercises|Breathing Exercises]]
+    -   Be an active listener
+        -   Avoid distractions when having conversations
             -   Distractions can prevent you from seeing the subtle facial cues
-    -   Develop meaningful goals that align with you values
+    -   Develop meaningful goals that align with your values
     -   Develop your social skills

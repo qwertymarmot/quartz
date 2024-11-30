@@ -11,7 +11,7 @@ draft: false
 > [How to be a good husband to a stay at home mom](https://www.fatherly.com/life/how-to-be-good-husband-stay-at-home-mom)
 
 
-## Notes {#notes}
+## Notes
 
 -   It is important for fathers to know that stay at home moms feel like they are losing their identity as anything other than a mom
 -   It is important for mothers to know that working fathers feel the pressure to provide for their family and how isolated fromr their kids they feel at times

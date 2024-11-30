@@ -6,7 +6,7 @@ lastmod: 2024-05-17T00:00:00-06:00
 tags: ["coding", "python"]
 draft: false
 ---
-
+## Notes
 example:
 
 ```python

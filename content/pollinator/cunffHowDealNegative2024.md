@@ -11,63 +11,40 @@ draft: false
 > [How to Deal with Negative Emotional Triggers](https://nesslabs.com/negative-emotional-triggers?utm_source=rss&utm_medium=rss&utm_campaign=negative-emotional-triggers)
 
 
-## Notes {#notes}
+## Notes
 
 
-### Identify the emotion {#identify-the-emotion}
+### Identify the emotion 
 
 
-#### Emotions are our way of responding to the patterns in our body {#emotions-are-our-way-of-responding-to-the-patterns-in-our-body}
-
-<!--list-separator-->
+#### Emotions are our way of responding to the patterns in our body
 
 -  Rate of breathing
-
-<!--list-separator-->
-
 -  Blood flow
+-  Muscle constriction
 
-<!--list-separator-->
-
--  Musle constriction
-
-
-#### [Interoceptive awareness]({{< relref "../sapling/20240429105453-interoceptive_awareness.md" >}}) = Awareness of these patterns and association of them to the negative emotional states that they trigger {#interoceptive-awareness--dot-dot-sapling-20240429105453-interoceptive-awareness-dot-md--awareness-of-these-patterns-and-association-of-them-to-the-negative-emotional-states-that-they-trigger}
+#### [Interoceptive awareness]({{< relref "../sapling/20240429105453-interoceptive_awareness.md" >}}) = Awareness of these patterns and association of them to the negative emotional states that they trigger
 
 
-#### Five main categories for negative emotions {#five-main-categories-for-negative-emotions}
-
-<!--list-separator-->
+#### Five main categories for negative emotions
 
 -  Anxiety
-
-<!--list-separator-->
-
 -  Anger
-
-<!--list-separator-->
-
 -  Guilt
-
-<!--list-separator-->
-
 -  Sadness
-
-<!--list-separator-->
-
 -  Shame
 
 
-#### Try and find the closest word possible to describe your feeling {#try-and-find-the-closest-word-possible-to-describe-your-feeling}
+#### Try and find the closest word possible to describe your feeling
 
 
-### Analyze the trigger {#analyze-the-trigger}
+### Analyze the trigger
 
 
-#### Determine what unmet need triggered the response {#determine-what-unmet-need-triggered-the-response}
+#### Determine what unmet need triggered the response
 
 
-#### List of some possible unmet needs {#list-of-some-possible-unmet-needs}
+#### List of some possible unmet needs
 
 -   Acceptance
 -   Attention
@@ -95,4 +72,4 @@ draft: false
 -   Safety
 
 
-### Shift the emotional state {#shift-the-emotional-state}
+### Shift the emotional state

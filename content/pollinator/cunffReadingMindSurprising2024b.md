@@ -11,7 +11,7 @@ draft: false
 > [The Reading Mind](https://nesslabs.com/benefits-of-reading?utm_source=rss&utm_medium=rss&utm_campaign=benefits-of-reading)
 
 
-## Notes {#notes}
+## Notes
 
 -   Reading influences universal areas of the brain
     -   Regardless of where you come from or where you learn to read the same areas of the brain are used.
