@@ -1,7 +1,6 @@
 ---
 title: Welcome to My Digital Garden
 ---
-
 ![[desk.webp]]
 
 # 🌱 Welcome to My Digital Garden
