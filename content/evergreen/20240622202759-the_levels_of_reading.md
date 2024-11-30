@@ -7,7 +7,7 @@ tags: ["reading", "learning"]
 draft: false
 ---
 
-## Notes {#notes}
+## Notes
 
 There are four levels of reading that we have access to. [Elementary Reading]({{< relref "../sapling/20240511150643-elementary_reading.md" >}}) allows us to recognize words and their meaning. This type of reading is helpful when reading fiction material.
 [Inspectional Reading]({{< relref "../sapling/20240511150708-inspectional_reading.md" >}}) entails skimming a material for general understanding of what the material is about. This type of reading is helpful when inspecting a material for the first time to understand what you might get from this material and if it is worth your time to read further.
@@ -15,6 +15,6 @@ There are four levels of reading that we have access to. [Elementary Reading]({{
 [Syntopical Reading]({{< relref "../sapling/20240511150737-syntopical_reading.md" >}}) entails taking the information gained from one material and developing it further using other materials to better understand multiple points of view.
 
 
-## Source {#source}
+## Source
 
 [Notes on How to Read a Book: The Ultimate Guide by Mortimer Adler]({{< relref "../pollinator/HowReadBook.md" >}})

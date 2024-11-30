@@ -7,11 +7,11 @@ tags: ["productivity", "expertise"]
 draft: false
 ---
 
-## Notes {#notes}
+## Notes
 
 A drive for productivity prevents individuals from having the time to focus on skill development and mastery of new technology. Individuals who are able to make the time to develop new skills become top performers in their industries.
 
 
-## Source {#source}
+## Source
+[[newportDeepWorkRules2016|Notes on Deep Work: Rules for Focused Success in a Distracted World]]
 
-[Notes on Deep Work: Rules for Focused Success in a Distracted World]({{< relref "../pollinator/newportDeepWorkRules2016.md" >}})
