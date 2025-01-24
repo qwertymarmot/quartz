@@ -33,13 +33,6 @@ A growing space where thoughts are planted, nurtured, and shared. Here, you’ll
 
 ---
 
-## Recent Highlights
-- [The Science of Zone 2 Training](notes/zone2-training)
-- [Reflections on Atomic Habits](notes/atomic-habits)
-- [A Beginner's Guide to Python](notes/python-guide)
-
----
-
 Take a look around and enjoy exploring!
 
 
